@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pradeep-baradiya
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning frontend development
+- 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me pradeepahir5630@gmail.com
 
 <!---
